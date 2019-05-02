@@ -20,7 +20,11 @@ To keep it interesting, but accessible, this plan focuses on HTML/JS and usage o
 
 * All students must be 13 or older. This is because to make an account on Github, you must be 13 or older. 
 * Students do not need to really "know" HTML, but having previous programming experience is obviously a good thing to have. There's no point in introducing source control to someone who hasn't programmed a bit.
-* You should understand the basics of `git`. 
+* You should understand the basics of `git`. If you do not, take a look at the following resources: 
+    * [Github - Hello World Tutorial](https://guides.github.com/activities/hello-world/)
+    * [Github Desktop Documentation](https://help.github.com/en/desktop)
+    * [Github Basic Command Line Tutorial](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61)
+    * [Git Basics (Lower level explanation)](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
 
 # Disclaimer
 
