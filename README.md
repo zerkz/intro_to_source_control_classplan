@@ -16,3 +16,14 @@ This is useful if you, as an educator, want to introduce the concept of source c
 # Solutions
 To keep it interesting, but accessible, this plan focuses on HTML/JS and usage of Github Pages. This is interesting to most students at the high school level, because most classes tend to focus upon Java, Python, and low level algorithms. This class is meant to entice students via producing a real-world, online, sharable creation. 
 
+# Requirements 
+
+* All students must be 13 or older. This is because to make an account on Github, you must be 13 or older. 
+* Students do not need to really "know" HTML, but having previous programming experience is obviously a good thing to have. There's no point in introducing source control to someone who hasn't programmed a bit.
+* You should understand the basics of `git`. 
+
+# Disclaimer
+
+Following this guide will lead you to allowing your students to publish a website publically on the internet in which they will have control over the content. It's important that you follow whatever legal/school policy, if it may apply. 
+
+If this is a concern of yours, worry not, because Github does offer the ability to "protect" the master branch. This will enforce students to run changes by you (via pull requests) before they may be deployed publicly. 
